@@ -1,5 +1,5 @@
 # Data Structures and Algorithms in JavaScript
-This is my repository with my Data Structures and Algorithms lessons and anotations, coding in JavaScript with Udemy's Course.
+This is my repository with my Data Structures and Algorithms lessons and annotations, coding in JavaScript with Udemy's Course.
 
 ---
 1. Big-O notation:  
