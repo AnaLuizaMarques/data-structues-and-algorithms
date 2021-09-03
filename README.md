@@ -13,4 +13,4 @@ This is my repository with my Data Structures and Algorithms lessons and annotat
 3. Ordered list:     
    3.1. [Data Structure Visualizations and Search by University of San Francisco.](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html)    
    3.2. [Ordered list class implementation with JavaScript (Print, Insert, Search and Delete).]       
-   3.3. [Ordered list PDF annotations.]
+   3.3. [Ordered list PDF annotations.](VetoresOrdenados.pdf)
